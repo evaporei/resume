@@ -17,33 +17,41 @@
 
 Software Engineer with 6 years of experience. Worked with Web, FFI, WebAssembly and Blockchain. Currently looking for a low-level role in compilers or computer graphics.
 
+== Skills
+#chiline()
+
+Rust - FFI - WebAssembly - PostgreSQL - JavaScript - Node.js
+
 == Experience
 #chiline()
 
 *Rust Engineer* #h(1fr) 2021/04 -- 2023/02 \
 Edge & Node #h(1fr) San Francisco, US (remote)
 \
-I've worked to make #link("https://thegraph.com")[The Graph] move forward in the decentralization of public data. Delivered features such as: \
-- Integration of our first non-EVM compatible chain, NEAR Protocol;
-- Update of our AssemblyScript version, from the oldest to the newest (\~2 year change) that required a lot of ABI changes in our runtime code (WASM).
-Most of the code I made there is open source:
-- #link("https://github.com/graphprotocol/graph-node")[Rust node that indexes blockchain data and serves it via GraphQL];
-- #link("https://github.com/graphprotocol/graph-tooling")[JS CLI tool for creating subgraphs];
-- #link("https://github.com/graphprotocol/graph-ts")[AssemblyScript standard library].
+Developed a decentralized ETL client software for  #link("https://thegraph.com")[The Graph]. Delivered features such as: \
+- A new WebAssembly runtime for #link("https://github.com/graphprotocol/graph-node")[graph-node], that handled and mapped multiple ABI formats for different versions of the #link("https://www.assemblyscript.org")[AssemblyScript] programming language;
+- Integration of the first non-EVM compatible chain (#link("https://near.org")[NEAR Protocol]) into the client.
+Advocated and contributed in open source software such as:
+- #link("https://github.com/graphprotocol/graph-node")[graph-node]: Rust node that indexes blockchain data and serves it via GraphQL;
+- #link("https://github.com/graphprotocol/graph-cli")[graph-cli]: tool for creating subgraphs, which are a programmable ETL that reduces blockchain data to a store;
+- #link("https://github.com/graphprotocol/graph-ts")[graph-ts]: AssemblyScript standard library for subgraph development.
 
 *Senior Software Engineer* #h(1fr) 2020/07 -- 2021/03 \
 Magazine Luiza #h(1fr) São Paulo, Brazil (remote) \
-I worked at MagaluPay, the company's digital account, that has over 2 million users. Took part in most of the new integration with the new government instant payments API (PIX). \
+- Developed MagaluPay, the company's digital account, that had over 2 million users;
+- Integrated the back-end with the new government instant payments API (PIX). \
 
 *Software Engineer* #h(1fr) 2017/10 -- 2020/07 \
 Pagar.me #h(1fr) São Paulo, Brazil (on-site)
-- Developed multiple features at the core payments API;
-- Developed the payment link product;
-- Took front in a project that interpreted and parsed payments terminal commands using Rust, FFI and WebAssembly. \
+- Rewrote a C library to Rust that implemented a payment terminal protocol using FFI and WebAssembly;
+- Maintained the core payments API which mostly consisted of distributed systems challenges;
+- Developed the payment link product using Next.js and updated client SDKs in Python, Java and Ruby to support it;
+- Made the chargeback system handle the second presentment.
+
 
 *Junior Software Engineer* #h(1fr) 2017/04 -- 2017/09 \
 FCamara #h(1fr) São Paulo, Brazil (on-site) \
-I worked at LinkApi, a start up that is an application integration tool, much like #link("https://zapier.com")[Zapier]. I did a lot of integration with multiple third party APIs, mostly REST and SOAP. \
+Built multiple REST and SOAP API connectors for a startup called LinkApi, which works very similar to #link("https://zapier.com")[Zapier]. \
 
 == Education
 #chiline()
@@ -58,10 +66,6 @@ I worked at LinkApi, a start up that is an application integration tool, much li
 
 == Extra-curricular Activities
 #chiline()
-
-*Talk: How allocating zero bytes can be useful to remove lazyness* - GambiConf (Brazil, remote) #h(1fr) 2021/12 \
-Talk about a workaround done at The Graph to make an AssemblyScript compiler internal lazy variable
-be evaluated eagerly. Link for: #link("https://github.com/evaporei/gambi-talk")[slides] and #link("https://www.youtube.com/watch?v=dExsHjzqnGU")[video].\
 
 *Podcast: Rust* - TOTVS (Brazil, remote) #h(1fr) 2020/11 \
 Guest on a podcast about Rust. We talked about the advantages and disadvantages of the language and ecosystem. #link("https://www.buzzsprout.com/774398/6533485-totvs-developers-21-rust")[Podcast link].\
