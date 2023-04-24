@@ -31,27 +31,27 @@ Edge & Node #h(1fr) San Francisco, US (remote)
 Developed a decentralized ETL client software for  #link("https://thegraph.com")[The Graph]. Delivered features such as: \
 - A new WebAssembly runtime for #link("https://github.com/graphprotocol/graph-node")[graph-node], that handled and mapped multiple ABI formats for different versions of the #link("https://www.assemblyscript.org")[AssemblyScript] programming language;
 - Integration of the first non-EVM compatible chain (#link("https://near.org")[NEAR Protocol]) into the client.
-Advocated and contributed in open source software such as:
+Advocated and contributed to open source software such as:
 - #link("https://github.com/graphprotocol/graph-node")[graph-node]: Rust node that indexes blockchain data and serves it via GraphQL;
 - #link("https://github.com/graphprotocol/graph-cli")[graph-cli]: tool for creating subgraphs, which are a programmable ETL that reduces blockchain data to a store;
 - #link("https://github.com/graphprotocol/graph-ts")[graph-ts]: AssemblyScript standard library for subgraph development.
 
 *Senior Software Engineer* #h(1fr) 2020/07 -- 2021/03 \
 Magazine Luiza #h(1fr) São Paulo, Brazil (remote) \
-- Developed MagaluPay, the company's digital account, that had over 2 million users;
+- Developed MagaluPay, the company's digital account, which had over 2 million users;
 - Integrated the back-end with the new government instant payments API (PIX). \
 
 *Software Engineer* #h(1fr) 2017/10 -- 2020/07 \
 Pagar.me #h(1fr) São Paulo, Brazil (on-site)
 - Rewrote a C library to Rust that implemented a payment terminal protocol using FFI and WebAssembly;
-- Maintained the core payments API which mostly consisted of distributed systems challenges;
+- Maintained the core payments API, which mostly consisted of distributed systems challenges;
 - Developed the payment link product using Next.js and updated client SDKs in Python, Java and Ruby to support it;
 - Made the chargeback system handle the second presentment.
 
 
 *Junior Software Engineer* #h(1fr) 2017/04 -- 2017/09 \
 FCamara #h(1fr) São Paulo, Brazil (on-site) \
-Built multiple REST and SOAP API connectors for a startup called LinkApi, which works very similar to #link("https://zapier.com")[Zapier]. \
+Built multiple REST and SOAP API connectors for a startup called LinkApi, which works very similarly to #link("https://zapier.com")[Zapier]. \
 
 == Education
 #chiline()
