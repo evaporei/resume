@@ -15,15 +15,21 @@
 
 #chiline()
 
-Software Engineer with 6 years of experience. Worked with Web, FFI, WebAssembly and Blockchain. Currently looking for a low-level role in compilers or computer graphics.
+Software Engineer with 6 years of experience. Worked with Web, FFI, WebAssembly and Blockchain. Currently contributing to GStreamer.
 
 == Skills
 #chiline()
 
-Rust - FFI - WebAssembly - PostgreSQL - JavaScript - Node.js
+Rust - C - FFI - WebAssembly - PostgreSQL - JavaScript - Node.js
 
-== Experience
+== Selected Experience
 #chiline()
+
+*Coding Experience - GStreamer / Multimedia* #h(1fr) 2023/08 -- Present \
+Igalia #h(1fr) A Coruña, Galicia, Spain (remote) \
+- https://gitlab.freedesktop.org/gstreamer/gstreamer
+- https://gitlab.freedesktop.org/gstreamer/gstreamer-rs
+- https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs
 
 *Rust Engineer* #h(1fr) 2021/04 -- 2023/02 \
 Edge & Node #h(1fr) San Francisco, US (remote)
@@ -47,11 +53,6 @@ Pagar.me #h(1fr) São Paulo, Brazil (on-site)
 - Maintained the core payments API, which mostly consisted of distributed systems challenges;
 - Developed the payment link product using Next.js and updated client SDKs in Python, Java and Ruby to support it;
 - Made the chargeback system handle the second presentment.
-
-
-*Junior Software Engineer* #h(1fr) 2017/04 -- 2017/09 \
-FCamara #h(1fr) São Paulo, Brazil (on-site) \
-Built multiple REST and SOAP API connectors for a startup called LinkApi, which works very similarly to #link("https://zapier.com")[Zapier]. \
 
 == Education
 #chiline()
