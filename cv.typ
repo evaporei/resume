@@ -15,7 +15,7 @@
 
 #chiline()
 
-Software Engineer with 6 years of experience. Worked with Web, FFI, WebAssembly and Blockchain.
+Software Engineer with 7 years of experience. Worked with Web, FFI, WebAssembly and Blockchain.
 
 == Skills
 #chiline()
@@ -27,7 +27,9 @@ Rust - C - FFI - WebAssembly - PostgreSQL - JavaScript - Node.js
 
 *Coding Experience - GStreamer / Multimedia* #h(1fr) 2023/08 -- Present \
 Igalia #h(1fr) A Coruña, Galicia, Spain (remote) \
-Contributing to #link("https://gitlab.freedesktop.org/gstreamer/gstreamer")[GStreamer] (C) and its Rust plugins (#link("https://gitlab.freedesktop.org/gstreamer/gstreamer-rs")[gstreamer-rs], #link("https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs")[gst-plugins-rs]).
+- Created two WebRTC plugins (sink & src) for Video Room conferencing using #link("https://janus.conf.meetecho.com/")[Janus] in #link("https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs")[gst-plugins-rs] (Rust);
+- Helped with a few contributions to the GES (Video & Audio Editing Services) in #link("https://gitlab.freedesktop.org/gstreamer/gstreamer")[GStreamer] (C);
+- General maintenance (documentation, updating libraries, fixing examples, etc).
 
 *Rust Engineer* #h(1fr) 2021/04 -- 2023/02 \
 Edge & Node #h(1fr) San Francisco, US (remote)
