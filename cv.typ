@@ -20,7 +20,7 @@ Software Engineer with 7 years of experience. Worked with Web, FFI, WebAssembly 
 == Skills
 #chiline()
 
-Rust - C - FFI - WebAssembly - PostgreSQL - JavaScript - Node.js
+Rust - C - FFI - WebAssembly - PostgreSQL - Ethereum - JavaScript - Node.js
 
 == Selected Experience
 #chiline()
