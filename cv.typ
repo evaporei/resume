@@ -25,7 +25,7 @@ Rust - C - FFI - WebAssembly - PostgreSQL - Ethereum - JavaScript - Node.js
 == Selected Experience
 #chiline()
 
-*Coding Experience - GStreamer / Multimedia* #h(1fr) 2023/08 -- Present \
+*Coding Experience - GStreamer / Multimedia* #h(1fr) 2023/08 -- 2024/03 \
 Igalia #h(1fr) A Coruña, Galicia, Spain (remote) \
 - Created two WebRTC plugins (sink & src) for Video Room conferencing using #link("https://janus.conf.meetecho.com/")[Janus] in #link("https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs")[gst-plugins-rs] (Rust);
 - Helped with a few contributions to the GES (Video & Audio Editing Services) in #link("https://gitlab.freedesktop.org/gstreamer/gstreamer")[GStreamer] (C);
