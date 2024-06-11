@@ -15,47 +15,50 @@
 
 #chiline()
 
-Software Engineer with 7 years of experience. Worked with Web, FFI, WebAssembly and Blockchain.
+Computer magician focusing at the data. I turn bytes into money for fun. I value performance and simplicity above all.
 
 == Skills
 #chiline()
 
-Rust - C - FFI - WebAssembly - PostgreSQL - Ethereum - JavaScript - Node.js
+Rust - Ethereum - WebAssembly - FFI - C/C++ - PostgreSQL - JavaScript - AWS - Whatever gets it done
 
 == Selected Experience
 #chiline()
 
+*Rust Engineer* #h(1fr) 2024/10 -- Present \
+iSeatz #h(1fr) New Orleans, US (remote) \
+I am working in replacing old infrastructure with high-performance Rust and Elixir microservices.
+- Spearheading several integrations and webhooks, as well as fixing high-profile bugs regarding payments and financial calculations.
+- Fixed many issues with the new infrastructure, operating Elixir, TypeScript and Rust codebases, as well as diverse deployments.
+
 *Coding Experience - GStreamer / Multimedia* #h(1fr) 2023/08 -- 2024/03 \
 Igalia #h(1fr) A Coruña, Galicia, Spain (remote) \
 - Created two WebRTC plugins (sink & src) for Video Room conferencing using #link("https://janus.conf.meetecho.com/")[Janus] in #link("https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs")[gst-plugins-rs] (Rust);
-- Helped with a few contributions to the GES (Video & Audio Editing Services) in #link("https://gitlab.freedesktop.org/gstreamer/gstreamer")[GStreamer] (C);
+- Contributed to the "Rendering Smartly" feature in GES (Video & Audio Editing Services) in #link("https://gitlab.freedesktop.org/gstreamer/gstreamer")[GStreamer] (C);
 - General maintenance (documentation, updating libraries, fixing examples, etc).
 
 *Rust Engineer* #h(1fr) 2021/04 -- 2023/02 \
 Edge & Node #h(1fr) San Francisco, US (remote)
 \
-Developed a decentralized ETL client software for  #link("https://thegraph.com")[The Graph]. Delivered features such as: \
+Developed a decentralized ETL client software for  #link("https://thegraph.com")[The Graph]. Some highlights from my work are: \
 - A new WebAssembly runtime for #link("https://github.com/graphprotocol/graph-node")[graph-node], that handled and mapped multiple ABI formats for different versions of the #link("https://www.assemblyscript.org")[AssemblyScript] programming language;
-- Integration of the first non-EVM compatible chain (#link("https://near.org")[NEAR Protocol]) into the client.
+- Led codebase migration to support our first non-EVM compatible chain (#link("https://near.org")[NEAR Protocol]).
 Advocated and contributed to open source software such as:
 - #link("https://github.com/graphprotocol/graph-node")[graph-node]: Rust node that indexes blockchain data and serves it via GraphQL;
 - #link("https://github.com/graphprotocol/graph-cli")[graph-cli]: tool for creating subgraphs, which are a programmable ETL that reduces blockchain data to a store;
 - #link("https://github.com/graphprotocol/graph-ts")[graph-ts]: AssemblyScript standard library for subgraph development.
 
-*Senior Software Engineer* #h(1fr) 2020/07 -- 2021/03 \
-Magazine Luiza #h(1fr) São Paulo, Brazil (remote) \
-- Developed MagaluPay, the company's digital account, which had over 2 million users;
-- Integrated the back-end with the new government instant payments API (PIX). \
-
-*Software Engineer* #h(1fr) 2017/10 -- 2020/07 \
+*Senior Software Engineer* #h(1fr) 2017/10 -- 2020/07 \
 Pagar.me #h(1fr) São Paulo, Brazil (on-site)
-- Rewrote a C library to Rust that implemented a payment terminal protocol using FFI and WebAssembly;
-- Maintained the core payments API, which mostly consisted of distributed systems challenges;
-- Developed the payment link product using Next.js and updated client SDKs in Python, Java and Ruby to support it;
+- Rewrote a C library to Rust, implementing a payment terminal protocol using FFI and WebAssembly;
+- Maintained the core payments API, with many challenging distributed systems problems;
+- Developed the Payment Link product using Next.js and updated client SDKs in Python, Java and Ruby to support it;
 - Made the chargeback system handle the second presentment.
 
 == Education
 #chiline()
+
+*Algorithms and Data Structures* - Ada & Google (remote) #h(1fr) 2024/08 -- 2024/12 \
 
 *Computer Science Intensive* - Bradfield CS (remote) #h(1fr) 2023/06 -- 2024/06 \
 
@@ -70,8 +73,5 @@ Pagar.me #h(1fr) São Paulo, Brazil (on-site)
 == Extra-curricular Activities
 #chiline()
 
-*Podcast: Rust* - TOTVS (Brazil, remote) #h(1fr) 2020/11 \
-Guest on a podcast about Rust. We talked about the advantages and disadvantages of the language and ecosystem. #link("https://www.buzzsprout.com/774398/6533485-totvs-developers-21-rust")[Podcast link].\
-
 *Talk: Interop with Android, IOS and WASM in the same project* - Rust LATAM (Uruguay, on-site) #h(1fr) 2019/03 \
-Talk about how we did a Rust library at Pagar.me which had to be compiled to Android, iOS and WASM at the same time. Links for: #link("https://www.youtube.com/watch?v=W-HUyTwV4LA")[video] and #link("https://github.com/evaporei/doom-fire-interop")[repository].\
+Technical presentation on making a cross-platform Rust library targeting Android, iOS and WASM. #link("https://www.youtube.com/watch?v=W-HUyTwV4LA")[Video] and #link("https://github.com/evaporei/doom-fire-interop")[repository].\
