@@ -15,7 +15,7 @@
 
 #chiline()
 
-Software Engineer with almost 10 years of experience. Contributed to payments, open-source, blockchain and multimedia. Recently exploring computer graphics and Desktop app development. I value performance and simplicity above all.
+Software Engineer with almost 10 years of experience. Contributed to payments, open-source, blockchain and multimedia. Compiler and computer graphics nerd. I value performance and simplicity above all.
 
 == Skills
 #chiline()
@@ -61,8 +61,6 @@ Pagar.me #h(1fr) São Paulo, Brazil (on-site)
 *Algorithms and Data Structures* - Ada & Google (remote) #h(1fr) 2024/08 -- 2024/12 \
 
 *Computer Science Intensive* - Bradfield CS (remote) #h(1fr) 2023/06 -- 2024/06 \
-
-*Software Systems: Behind the Abstractions* - Bradfield CS (remote) #h(1fr) 2022/09 -- 2022/11 \
 
 *Purely Functional Data Structures* - UFABC (Santo André, Brazil) #h(1fr) 2019/11 \
 
