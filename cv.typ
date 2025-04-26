@@ -15,12 +15,12 @@
 
 #chiline()
 
-Computer magician focusing at the data. I turn bytes into money for fun. I value performance and simplicity above all.
+Software Engineer with almost 10 years of experience. Contributed to payments, open-source, blockchain and multimedia. Recently exploring computer graphics and Desktop app development. I value performance and simplicity above all.
 
 == Skills
 #chiline()
 
-Rust - Ethereum - WebAssembly - FFI - C/C++ - PostgreSQL - JavaScript - AWS - Whatever gets it done
+Rust - OpenGL - WebAssembly - FFI - C/C++ - PostgreSQL - JavaScript - AWS
 
 == Selected Experience
 #chiline()
